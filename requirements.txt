@@ -1,1 +1,1 @@
-policyuniverse==1.3.2.20200919
+policyuniverse==1.3.2.20200924
